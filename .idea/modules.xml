@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Camera/Camera.iml" filepath="$PROJECT_DIR$/Camera/Camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Model/Model.iml" filepath="$PROJECT_DIR$/Model/Model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Monitoring_Platform.iml" filepath="$PROJECT_DIR$/Monitoring_Platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beta_ui.iml" filepath="$PROJECT_DIR$/beta_ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.iml" filepath="$PROJECT_DIR$/ui.iml" />
+    </modules>
+  </component>
+</project>
